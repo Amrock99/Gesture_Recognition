@@ -1,6 +1,6 @@
 # Gesture_Recognition
 
-1- You Must have GPU in your system to run the project smoothly.
+#1- You Must have GPU in your system to run the project smoothly.
 2- Install Anaconda Navigator and then onpen jupyter notebook in your computer.
 3- Opne a new note book.
 4- Paste the MP_Data folder in your OS-directory.
